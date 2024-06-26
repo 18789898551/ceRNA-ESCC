@@ -37,7 +37,8 @@ A scatter plot was employed to illustrate the relationship between SYNCRIP and D
 ### 6a-b: Scatterplots between 4 hub genes expression in CAF module
 A scatter plot that demonstrates the relationship between SYNCRIP and Dysfunction. 
 ### 6c: Exploration of the distribution of four hub genes using single-cell sequencing.
-**(Left)**The single-cell RNA sequencing data was preprocessed, subjected to dimensionality reduction, and clustering analysis. Subsequently, the UMAP algorithm was employed for visualization. Finally, cell types were annotated using the HumanPrimaryCellAtlasData and SingleR packages.
-**(right)**The FeaturePlot function was utilized to visualize the expression of specific genes (COL1A1, COL5A1, COL5A2, and COL4A1) in a single-cell RNA sequencing dataset, applying a designated color coding and border theme. 
+(Left)The single-cell RNA sequencing data was preprocessed, subjected to dimensionality reduction, and clustering analysis. Subsequently, the UMAP algorithm was employed for visualization. Finally, cell types were annotated using the HumanPrimaryCellAtlasData and SingleR packages.
+
+(right)The FeaturePlot function was utilized to visualize the expression of specific genes (COL1A1, COL5A1, COL5A2, and COL4A1) in a single-cell RNA sequencing dataset, applying a designated color coding and border theme. 
 
 ### We have uploaded the code corresponding to each figure image to facilitate future study and discussion.
